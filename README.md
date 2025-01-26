@@ -1,13 +1,51 @@
-# Sampling methods used : 
-Sample 1 - Systematic random sampling, 
-Sample 2 - Stratified sampling, 
-Sample 3 - Cluster sampling, 
-Sample 4 - Simple random sampling, 
-Sample 5 - Bootstrap sampling
 
-# Machine learning models used : 
-Model 1 - Logistic Regression, 
-Model 2 - Support Vector Machine, 
-Model 3 - Decision Trees, 
-Model 4 - Naive Bayes, 
-Model 5 - K-Nearest Neighbors 
+# Credit Card Data Analysis
+
+This project involves the analysis of credit card data for various statistical and data science tasks. The repository includes:
+- A Jupyter Notebook file for analysis and visualization (`102203087_bhavya_jaiswal.ipynb`).
+- A dataset file (`Creditcard_data.csv`) for experiments and processing.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Files](#files)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+This project demonstrates the use of data analysis and visualization techniques on a dataset related to credit card transactions. Insights are derived using Python libraries, focusing on data cleaning, sampling, and visualization.
+
+## Files
+
+- **102203087_bhavya_jaiswal.ipynb**: A Jupyter Notebook containing scripts and visualizations for the analysis.
+- **Creditcard_data.csv**: The dataset used for the analysis.
+
+## Requirements
+
+To run the notebook, ensure you have the following installed:
+- Python 3.7 or higher
+- Required libraries:
+  - `pandas`
+  - `numpy`
+  - `matplotlib`
+  - `seaborn`
+  - `jupyter`
+
+## Usage
+
+1. Clone or download this repository.
+2. Install the required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
+3. Open the Jupyter Notebook in your environment:
+   ```bash
+   jupyter notebook 102203087_bhavya_jaiswal.ipynb
+   ```
+4. Load and analyze the dataset `Creditcard_data.csv` as demonstrated in the notebook.
+
+## License
+
+This project is provided for educational and research purposes. Feel free to modify and use it as needed.
